@@ -1,5 +1,17 @@
 # @jpmorganchase/mosaic-workflows
 
+## 0.1.0-beta.52
+
+### Patch Changes
+
+- cf428292: Fix Bitbucket Pull Request Workflow
+
+  Create a new repo instance every time the workflow is triggered to prevent the wrong source being used to raise the PR.
+
+  - @jpmorganchase/mosaic-serialisers@0.1.0-beta.52
+  - @jpmorganchase/mosaic-source-git-repo@0.1.0-beta.52
+  - @jpmorganchase/mosaic-types@0.1.0-beta.52
+
 ## 0.1.0-beta.51
 
 ### Patch Changes
