@@ -1,5 +1,36 @@
 # @jpmorganchase/mosaic-open-api-component
 
+## 0.1.0-beta.73
+
+### Patch Changes
+
+- de00c017: Added the files package.json field to all of the packages to prevent unnecessary files being published.
+- Updated dependencies [de00c017]
+  - @jpmorganchase/mosaic-components@0.1.0-beta.73
+  - @jpmorganchase/mosaic-theme@0.1.0-beta.73
+
+## 0.1.0-beta.72
+
+### Patch Changes
+
+- Updated dependencies [e5d14ab4]
+  - @jpmorganchase/mosaic-components@0.1.0-beta.72
+  - @jpmorganchase/mosaic-theme@0.1.0-beta.72
+
+## 0.1.0-beta.71
+
+### Patch Changes
+
+- @jpmorganchase/mosaic-components@0.1.0-beta.71
+- @jpmorganchase/mosaic-theme@0.1.0-beta.71
+
+## 0.1.0-beta.70
+
+### Patch Changes
+
+- @jpmorganchase/mosaic-components@0.1.0-beta.70
+- @jpmorganchase/mosaic-theme@0.1.0-beta.70
+
 ## 0.1.0-beta.69
 
 ### Patch Changes

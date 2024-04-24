@@ -366,7 +366,7 @@ export default class Repo {
     console.debug(`[Mosaic] Creating worktree for content save @ ${this.#dir}`);
     await spawn(
       'git',
-      ['worktree', 'add', '-f', '-B', branchName, this.#dir],
+      ['worktree', 'add', '-f', '-B', branchName, this.#dir, `${this.#remote}/${this.#branch}`],
       this.#worktreeRootDir
     );
     console.debug(`[Mosaic] Creating linked worktree for ${sid}`);

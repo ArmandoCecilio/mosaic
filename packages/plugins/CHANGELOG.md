@@ -1,5 +1,48 @@
 # @jpmorganchase/mosaic-plugins
 
+## 0.1.0-beta.73
+
+### Patch Changes
+
+- @jpmorganchase/mosaic-schemas@0.1.0-beta.73
+- @jpmorganchase/mosaic-serialisers@0.1.0-beta.73
+- @jpmorganchase/mosaic-source-git-repo@0.1.0-beta.73
+- @jpmorganchase/mosaic-source-local-folder@0.1.0-beta.73
+- @jpmorganchase/mosaic-types@0.1.0-beta.73
+
+## 0.1.0-beta.72
+
+### Patch Changes
+
+- Updated dependencies [a36a7571]
+  - @jpmorganchase/mosaic-source-git-repo@0.1.0-beta.72
+  - @jpmorganchase/mosaic-schemas@0.1.0-beta.72
+  - @jpmorganchase/mosaic-serialisers@0.1.0-beta.72
+  - @jpmorganchase/mosaic-source-local-folder@0.1.0-beta.72
+  - @jpmorganchase/mosaic-types@0.1.0-beta.72
+
+## 0.1.0-beta.71
+
+### Patch Changes
+
+- c21f28e7: Fix fragments not being picked up by the table of contents plugin
+- 30a19145: Fixed tags being broken when using fast-glob@^3.3.0
+  - @jpmorganchase/mosaic-schemas@0.1.0-beta.71
+  - @jpmorganchase/mosaic-serialisers@0.1.0-beta.71
+  - @jpmorganchase/mosaic-source-git-repo@0.1.0-beta.71
+  - @jpmorganchase/mosaic-source-local-folder@0.1.0-beta.71
+  - @jpmorganchase/mosaic-types@0.1.0-beta.71
+
+## 0.1.0-beta.70
+
+### Patch Changes
+
+- @jpmorganchase/mosaic-schemas@0.1.0-beta.70
+- @jpmorganchase/mosaic-serialisers@0.1.0-beta.70
+- @jpmorganchase/mosaic-source-git-repo@0.1.0-beta.70
+- @jpmorganchase/mosaic-source-local-folder@0.1.0-beta.70
+- @jpmorganchase/mosaic-types@0.1.0-beta.70
+
 ## 0.1.0-beta.69
 
 ### Patch Changes
